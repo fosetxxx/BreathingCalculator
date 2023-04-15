@@ -1,4 +1,4 @@
-# BreathingCalculator
+# BreathingCalculator SwiftUI
 
 a glowing calculator
 
